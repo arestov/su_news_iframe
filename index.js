@@ -1,4 +1,4 @@
-var message = [{
+var message = [] || [{
 	"original": [
 		null,
 		"Perfomance, more data in new seesu v4.0",
